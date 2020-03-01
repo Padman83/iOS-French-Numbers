@@ -10,7 +10,7 @@ French Numbers is written in Swift language for iOS.
 ```
 https://github.com/Padman83/iOS-French-Numbers.git
 ```
-### Or
+### Or Command Line.
 ```
 git clone https://github.com/Padman83/iOS-French-Numbers.git
 ```
