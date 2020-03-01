@@ -5,8 +5,6 @@ French Numbers is written in Swift language for iOS.
 
 ![iOS French Numbers](https://user-images.githubusercontent.com/45048950/74254395-5d272380-4d2b-11ea-9154-9c97e7377a8f.gif)
 
-### Built With :
-
 ### Code Editor
 
 * (https://developer.apple.com/xcode/ide)
