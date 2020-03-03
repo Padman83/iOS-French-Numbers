@@ -7,10 +7,12 @@ French Numbers is written in Swift language for iOS.
 ![iOS French Numbers](https://user-images.githubusercontent.com/45048950/74254395-5d272380-4d2b-11ea-9154-9c97e7377a8f.gif)
 
 ### Open in Xcode, go to source control -> clone -> enter repository URL.
+
 ```
 https://github.com/Padman83/iOS-French-Numbers.git
 ```
-### Or Command Line.
+### Or Use the Terminal.
+
 ```
 git clone https://github.com/Padman83/iOS-French-Numbers.git
 ```
