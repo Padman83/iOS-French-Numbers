@@ -2,9 +2,17 @@
 
 # iOS French Numbers
 
-French Numbers is written in Swift language for iOS.
+French Numbers is written in Swift language for iOS Apps.
 
 ![iOS French Numbers](https://user-images.githubusercontent.com/45048950/74254395-5d272380-4d2b-11ea-9154-9c97e7377a8f.gif)
+
+### Requirements :
+
+* Xcode Editor
+
+* iOS 13.0 or latest version
+
+### Installation :
 
 ### Open in Xcode, go to source control -> clone -> enter repository URL.
 
