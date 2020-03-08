@@ -10,7 +10,7 @@ French Numbers is written in Swift language for iOS Apps.
 
 * Xcode Editor
 
-* iOS 13.0 or latest version
+* iOS 13.3 or latest version
 
 ### Installation :
 
